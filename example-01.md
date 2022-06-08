@@ -25,9 +25,15 @@ Here are the names of my adorable puppies🐶
 | Brownie | 3   | steak        |
 | Fluffy  | 4   | Oreo cookies |
 
+### Silver
+
 ![Silver](https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
+### Brownie
+
 ![Brownie](https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+
+### Fluffy
 
 ![Fluffy](https://images.unsplash.com/photo-1560132248-d946352460e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
